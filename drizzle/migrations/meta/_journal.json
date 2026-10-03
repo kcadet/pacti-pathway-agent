@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790878619060,
+      "tag": "0000_hvac_usage_limits",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790881164544,
+      "tag": "0001_hvac_approved_users",
+      "breakpoints": true
+    }
+  ]
+}
